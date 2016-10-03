@@ -1,0 +1,8 @@
+c:\users\mystogun92\documents\visual studio 2013\Projects\SampleIdentity\SampleIdentity.Data\bin\Debug\SampleIdentity.Data.dll
+c:\users\mystogun92\documents\visual studio 2013\Projects\SampleIdentity\SampleIdentity.Data\bin\Debug\SampleIdentity.Data.pdb
+c:\users\mystogun92\documents\visual studio 2013\Projects\SampleIdentity\SampleIdentity.Data\bin\Debug\EntityFramework.dll
+c:\users\mystogun92\documents\visual studio 2013\Projects\SampleIdentity\SampleIdentity.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mystogun92\documents\visual studio 2013\Projects\SampleIdentity\SampleIdentity.Data\bin\Debug\EntityFramework.xml
+c:\users\mystogun92\documents\visual studio 2013\Projects\SampleIdentity\SampleIdentity.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mystogun92\documents\visual studio 2013\Projects\SampleIdentity\SampleIdentity.Data\obj\Debug\SampleIdentity.Data.dll
+c:\users\mystogun92\documents\visual studio 2013\Projects\SampleIdentity\SampleIdentity.Data\obj\Debug\SampleIdentity.Data.pdb
